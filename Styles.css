@@ -1,0 +1,43 @@
+header {
+    background-color: #222;
+    color: white;
+    padding: 20px;
+    text-align: center;
+  }
+
+  a {
+    color: white;
+  }
+  
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-image: url("Imagenes/feliz.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: 0px -350px;
+    color: #333;
+  }
+
+  main {
+    background-color: #222222ec;
+    color: white;
+    text-align: center;
+    padding: 20px;
+    margin-top: 130px;
+  }
+
+  
+
+  footer {
+    background-color: #222;
+    color: white;
+    text-align: center;
+    padding: 10px;
+    position: fixed;
+    width: 100%;
+    bottom: 0;
+    font-size: 0.9em;
+  }
